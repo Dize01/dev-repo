@@ -1,5 +1,5 @@
 public with sharing class test {
     public test() {
-        String str = 'test';
+        String str = 'testasdrertertertetrdasd';
     }
 }
